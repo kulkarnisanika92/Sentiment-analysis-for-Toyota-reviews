@@ -1,5 +1,5 @@
 # Sentiment-analysis-for-Toyota-reviews
-3 Objectives
+Objectives
 1. Download the training data (reviews) from the online link. Include
 the star rating given by the reviewer. Display this as a table where each row
 corresponds to a single review. The table should have three columns: year of the
